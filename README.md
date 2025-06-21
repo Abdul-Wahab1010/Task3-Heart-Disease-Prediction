@@ -91,15 +91,9 @@ To predict whether a person is at risk of heart disease based on health attribut
 git clone https://github.com/Username/Task3-Heart-Disease-Prediction.git
 cd Task3-Heart-Disease-Prediction
 
-2. Install required packages:
-
-```bash
+Install required packages:
    pip install pandas numpy seaborn matplotlib scikit-learn
 
-
-
-
----
 
  
 
