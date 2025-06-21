@@ -1,4 +1,4 @@
-# 🫀 Task 3: Heart Disease Prediction
+#  Task 3: Heart Disease Prediction
 
 This project is part of my **AI/ML Engineering Internship** at **DevelopersHub Corporation**. It aims to build a predictive model to assess the risk of heart disease using clinical data. This task emphasizes medical data understanding, classification modeling, and model evaluation.
 
@@ -93,8 +93,20 @@ cd Task3-Heart-Disease-Prediction
 
 Install required packages:
    pip install pandas numpy seaborn matplotlib scikit-learn
-
-
+```
+2. Install required packages:
  
+ ```bash
+pip install pandas numpy seaborn matplotlib scikit-learn
+```
 
+3. Run the notebook:
+
+ ```bash
+jupyter notebook house-price-prediction.ipynb
+```
+## 📬 Author
+Abdul Wahab
+GitHub: @Abdul-Wahab1010
+Internship Project - DevelopersHub Corporation | June 2025
 
