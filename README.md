@@ -93,7 +93,6 @@ cd Task3-Heart-Disease-Prediction
 
 **2. Install required packages:**
    pip install pandas numpy seaborn matplotlib scikit-learn
----
 
 ## 📬 Author
 Abdul Wahab
